@@ -1,0 +1,22 @@
+{
+  "name": "ngx-tests",
+  "version": "0.0.1",
+  "main": "index.html",
+  "dependencies": {
+    "ngx": null,
+    "jquery": null,
+    "angular": null,
+    "bootstrap": null,
+    "jquery-ui": null,
+    "underscore": null,
+    "angular-ui": null,
+    "font-awesome": null,
+    "angular-bootstrap": null,
+    "angular-placeholders": null
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
